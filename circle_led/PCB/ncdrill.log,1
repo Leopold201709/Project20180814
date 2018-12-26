@@ -1,0 +1,67 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : #Taaaaaa02224.tmp                             )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Mon Jul 23 16:39:02 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.3
+ MACHINE-OFFSET		x:0.000000	y:0.000000
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING: Design precision is greater than that of the drill output file data.
+          Data rounding errors are very possible.
+ WARNING: This design contains 3 slot holes that can NOT be drilled.
+          They can be processed by NC routing instead.
+
+
+
+ Drill files being output to directory 'E:/prj_hardware/circle_led/PCB' ...
+
+
+
+     'CIRCLELED-1-2.drl' created for holes connecting TOP and BOTTOM
+     ---------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  20.0000    0.0000/  0.0000      PLATED         78
+            2.  36.0000    0.0000/  0.0000      PLATED          2
+            3.  41.0000    0.0000/  0.0000      PLATED         16
+            4.  42.0000    0.0000/  0.0000      PLATED          2
+            5.  45.0000    0.0000/  0.0000      PLATED         15
+            6.  49.0000    0.0000/  0.0000      PLATED          1
+            7.  51.0000    0.0000/  0.0000      PLATED          4
+            8.  79.0000    0.0000/  0.0000      PLATED         24
+            9.  95.0000    0.0000/  0.0000      PLATED          2
+           10. 110.0000    0.0000/  0.0000      PLATED          4
+
+     ---- Total holes:                                        148
+
+     ---- Total head travel:              9.41 feet (2.87 meters)
+

@@ -1,0 +1,35 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  E:/prj_hardware/circle_led/PCB/CIRCLELED.brd*
+G04 Film Name:    outline*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 16.3-p003*
+G04 Origin Date:  Mon Jul 23 16:38:28 2018*
+G04 *
+G04 Layer:  BOARD GEOMETRY/OUTLINE*
+G04 *
+G04 Offset:    (0.000 0.000)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     5.000*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX55Y55*MOIN*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10C,.01*%
+G75*
+%LPD*%
+G75*
+G54D10*
+G01X779806Y669590D02*
+Y709264D01*
+X784988Y714446D01*
+X1150492D01*
+X1153872Y711066D01*
+Y423442D01*
+X1150266Y419836D01*
+X782623D01*
+X779806Y422653D01*
+Y671394D01*
+X779917Y671506D01*
+M02*

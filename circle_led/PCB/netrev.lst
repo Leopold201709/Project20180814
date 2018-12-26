@@ -1,0 +1,84 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Netrev Allegro Import Logic                                      )
+(                                                                     )
+(    Drawing          : CIRCLELED.brd                                 )
+(    Software Version : 16.3p004                                      )
+(    Date/Time        : Mon Jul 23 10:03:58 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'E:/prj_hardware/circle_led/SCH';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'E:/prj_hardware/circle_led/PCB/CIRCLELED.brd';
+NEW_BOARD_NAME 'E:/prj_hardware/circle_led/PCB/CIRCLELED.brd';
+
+CmdLine: netrev -$ -i E:/prj_hardware/circle_led/SCH -y 1 E:/prj_hardware/circle_led/PCB/#Taaaaaa02224.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read E:/prj_hardware/circle_led/SCH/pstchip.dat 
+   Finished reading E:/prj_hardware/circle_led/SCH/pstchip.dat (00:00:00.14)
+Starting to read E:/prj_hardware/circle_led/SCH/pstxprt.dat 
+   Finished reading E:/prj_hardware/circle_led/SCH/pstxprt.dat (00:00:00.01)
+Starting to read E:/prj_hardware/circle_led/SCH/pstxnet.dat 
+   Finished reading E:/prj_hardware/circle_led/SCH/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           d:/Cadence/SPB_16.3/share/local/pcb/modules 
+
+PSMPATH =  E:\lib_candence\symbol\ 
+           E:\lib_candence\PCBLIB\ 
+           E:\lib_candence\new_lib\ 
+           E:\LED_CARD\hardware\zjf_led_lib\ 
+           E:\student\cadence_cad\pcb_symbol\ 
+
+PADPATH =  E:\lib_candence\symbol\ 
+           E:\lib_candence\PCBLIB\ 
+           E:\LED_CARD\hardware\zjf_led_lib\ 
+           E:\student\cadence_cad\pcblib\ 
+           E:\student\cadence_cad\pcb_symbol\ 
+           E:\student\cadence_cad\pcblib\ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jul 23 10:03:58 2018
+   DESIGN NAME : 'CIRCLE_LED'
+   PACKAGING ON Nov 17 2009 03:09:43
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:01:33
+elapsed time  0:00:00
+

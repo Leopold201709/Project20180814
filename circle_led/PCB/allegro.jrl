@@ -1,0 +1,33 @@
+\t (00:00:13) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:13)     Journal start - Fri Sep 14 14:15:38 2018
+\t (00:00:13)         Host=VLENOVO User=Administrator Pid=2632 CPUs=4
+\t (00:00:13) CmdLine= D:\Cadence\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:13) 
+\t (00:00:14) Opening existing design...
+\i (00:00:15) fillin no 
+\t (00:00:15) Starting new design...
+\i (00:00:15) trapsize 968
+\i (00:00:15) trapsize 942
+\i (00:00:15) trapsize 972
+\i (00:00:15) trapsize 985
+\i (00:00:16) trapsize 819
+\i (00:00:16) trapsize 1927
+\i (00:00:16) placementedit 
+\i (00:00:26) dxf in 
+\i (00:00:26) placementedit 
+\i (00:00:29) setwindow form.dxfInMain
+\i (00:00:29) FORM dxfInMain browsedxf  
+\i (00:01:34) fillin "menu_cancel"
+   (00:01:34) Loading mfg.cxt 
+\i (00:02:26) FORM dxfInMain cancel  
+\i (00:02:26) setwindow pcb
+\i (00:02:26) placementedit 
+\i (00:02:28) open 
+\e (00:02:28) Do you want to save the changes you made to unnamed?
+\i (00:02:29) fillin no 
+\i (00:02:49) fillin "E:\testproject2\cadenceproject\stm8minisystempcb\pcbboard_v2\stm8minisys.brd"
+\i (00:02:49) cd "E:\testproject2\cadenceproject\stm8minisystempcb\pcbboard_v2"
+\t (00:02:49) Opening existing design...
+\t (00:02:49) Grids are drawn 4.0640, 4.0640 apart for enhanced viewability.
+\i (00:02:49) trapsize 45351
+\t (00:02:49)     Journal end - Fri Sep 14 14:18:15 2018

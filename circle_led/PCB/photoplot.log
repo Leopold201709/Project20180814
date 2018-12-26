@@ -1,0 +1,310 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : CIRCLELED.brd                                 )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Mon Jul 23 16:47:01 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found ... using drawing extents
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             12400000 11600000
+    FORMAT                5.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < E:/prj_hardware/circle_led/PCB/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.14000                                  DARK 
+  CIRCLE     0.18000                                  DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.03000       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.03000      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.04800       0.000 NO     DARK 
+  RECTANGLE  0.04500     x 0.06800       0.000 NO     DARK 
+  RECTANGLE  0.06200     x 0.07900      90.000 NO     DARK 
+  RECTANGLE  0.06299     x 0.01181       0.000 NO     DARK 
+  RECTANGLE  0.06299     x 0.01181      90.000 NO     DARK 
+  RECTANGLE  0.07010     x 0.07000       0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.06000       0.000 NO     DARK 
+  RECTANGLE  0.12000     x 0.06800       0.000 NO     DARK 
+  RECTANGLE  0.19685     x 0.11811       0.000 NO     DARK 
+  RECTANGLE  0.19685     x 0.11811      90.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < E:/prj_hardware/circle_led/PCB/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.14000                                  DARK 
+  CIRCLE     0.18000                                  DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+  RECTANGLE  0.07010     x 0.07000       0.000 NO     DARK 
+  RECTANGLE  0.19685     x 0.11811       0.000 NO     DARK 
+  RECTANGLE  0.19685     x 0.11811      90.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < topsilk >
+     TO FILE < E:/prj_hardware/circle_led/PCB/topsilk.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+    WARNING: text composed 0 width line found at (7810.000 4311.000)
+           ... using undefined line width of 5.000
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 5.000
+
+    WARNING: 0 width line found at (8335.516 4884.428)
+           ... using undefined line width of 5.000
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 5.000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00010                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00790                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+
+     topsilk created with warnings
+
+
+================================================================
+     PROCESSING FILM < bottomsilk >
+     TO FILE < E:/prj_hardware/circle_led/PCB/bottomsilk.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+
+     bottomsilk created.
+
+
+================================================================
+     PROCESSING FILM < topsolder >
+     TO FILE < E:/prj_hardware/circle_led/PCB/topsolder.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  YES
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.09300                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12000                                  DARK 
+  CIRCLE     0.16000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  SQUARE     0.09500                     0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.04800       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.04000       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.04000      90.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.08500       0.000 NO     DARK 
+  RECTANGLE  0.07200     x 0.08900      90.000 NO     DARK 
+  RECTANGLE  0.07874     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.07874     x 0.02362      90.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.08000       0.000 NO     DARK 
+  RECTANGLE  0.09000     x 0.07000       0.000 NO     DARK 
+  RECTANGLE  0.14000     x 0.08800       0.000 NO     DARK 
+  RECTANGLE  0.21257     x 0.13383       0.000 NO     DARK 
+  RECTANGLE  0.21257     x 0.13383      90.000 NO     DARK 
+
+     topsolder created.
+
+
+================================================================
+     PROCESSING FILM < bottomsolder >
+     TO FILE < E:/prj_hardware/circle_led/PCB/bottomsolder.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.09300                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12000                                  DARK 
+  CIRCLE     0.16000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  SQUARE     0.09500                     0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.08000       0.000 NO     DARK 
+  RECTANGLE  0.21257     x 0.13383       0.000 NO     DARK 
+  RECTANGLE  0.21257     x 0.13383      90.000 NO     DARK 
+
+     bottomsolder created.
+
+
+================================================================
+     PROCESSING FILM < outline >
+     TO FILE < E:/prj_hardware/circle_led/PCB/outline.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+
+     outline created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        BOTTOM created.
+        topsilk created with warnings
+        bottomsilk created.
+        topsolder created.
+        bottomsolder created.
+        outline created.
+
+ ARTWORK finished

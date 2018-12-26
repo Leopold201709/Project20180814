@@ -1,0 +1,39 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  E:/prj_hardware/circle_led/PCB/CIRCLELED.brd                                |
+|                                                    Mon Jul 23 09:15:33 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  D7           pins MOVED FROM this net (to net name listed on right)
+                                 U1.54           9508.17 5443.06
+                                                                            D11
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D8           pins MOVED FROM this net (to net name listed on right)
+                                 U1.52           9468.80 5443.06
+                                                                             D7
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U1.59           9606.60 5443.06
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D9           pins DELETED FROM this net (pin now not on any net)
+                                 U1.51           9449.12 5443.06
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U1.58           9586.91 5443.06
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D10          pins DELETED FROM this net (pin now not on any net)
+                                 U1.36           9336.91 5752.11
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U1.57           9567.23 5443.06
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D11          pins DELETED FROM this net (pin now not on any net)
+                                 U1.35           9336.91 5771.80
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  8                                              |
+|------------------------------------------------------------------------------|

@@ -1,0 +1,22 @@
+{ Using PSTWRITER 16.3.0 p002Jul-23-2018 at 10:03:51 }
+
+#1 Warning [ALG0047] "No_connect" property on Pin "R22.1" ignored for R22: SCHEMATIC1, P01:arm_stm32f013 (157.48, 162.56). Connecting pin to net "N03116".
+#2 Warning [ALG0047] "No_connect" property on Pin "R20.1" ignored for R20: SCHEMATIC1, P01:arm_stm32f013 (157.48, 160.02). Connecting pin to net "N03112".
+#3 Warning [ALG0047] "No_connect" property on Pin "U2.4" ignored for U2: SCHEMATIC1, P01:arm_stm32f013 (226.06, 63.50). Connecting pin to net "VCC3_3".
+#4 Warning [ALG0047] "No_connect" property on Pin "R21.1" ignored for R21: SCHEMATIC1, P01:arm_stm32f013 (96.52, 162.56). Connecting pin to net "N02254".
+#5 Warning [ALG0016] Part Name "STM32F107_1_LQFP64Z_STM32F103RFT" is renamed to "STM32F107_1_LQFP64Z_STM32F103RF".
+#6 Warning [ALG0016] Part Name "LM117HV/TO3_3_SOT223_AMS1117-3.3" is renamed to "LM117HV/TO3_3_SOT223_AMS1117-3.".
+#7 Warning [ALG0016] Part Name "MAX809_EUR-T_SOT-23_MAX809_EUR-T" is renamed to "MAX809_EUR-T_SOT-23_MAX809_EUR-".
+Scanning netlist files ...
+
+Loading... E:\PRJ_HARDWARE\CIRCLE_LED\SCH/pstchip.dat
+
+Loading... E:\PRJ_HARDWARE\CIRCLE_LED\SCH/pstchip.dat
+
+Loading... E:\PRJ_HARDWARE\CIRCLE_LED\SCH/pstxprt.dat
+
+Loading... E:\PRJ_HARDWARE\CIRCLE_LED\SCH/pstxnet.dat
+packaging the design view...ERROR(SPCODD-385): 
+			Reference Designator: R1. Not all parts specified for sized part.
+        Schematic Instance: @circle_led.schematic1(sch_1):ins1606@\discrete#0\.\r.normal\(chips) (MODULE: CIRCLE_LED; PART: R).
+

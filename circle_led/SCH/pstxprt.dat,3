@@ -1,0 +1,1020 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.3.0 p002Jul-23-2018 at 09:15:27 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CIRCLE_LED';
+ POST_TIME='Nov 17 2009 03:09:43';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR POL_CAP2_47UF/25V':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS15140@DISCRETE.CAPACITOR POL.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins15140@discrete.\capacitor pol.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins15140@discrete.\capacitor pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS21353@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins21353@discrete.\cap np.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins21353@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS21369@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins21369@discrete.\cap np.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins21369@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS21385@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins21385@discrete.\cap np.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins21385@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS21575@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins21575@discrete.\cap np.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins21575@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS21591@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins21591@discrete.\cap np.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins21591@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS21607@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins21607@discrete.\cap np.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins21607@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS21623@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins21623@discrete.\cap np.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins21623@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS15156@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins15156@discrete.\cap np.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins15156@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR POL_CT1206_22UF':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS15054@DISCRETE.CAPACITOR POL.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins15054@discrete.\capacitor pol.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins15054@discrete.\capacitor pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS15038@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins15038@discrete.\cap np.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins15038@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS2276@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins2276@discrete.\cap np.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins2276@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP POL_CT1206_22UF/16V':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS2378@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins2378@discrete.\cap pol.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins2378@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_0603_100N':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS2186@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins2186@discrete.\cap np.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins2186@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS2398@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins2398@discrete.\cap np.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins2398@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS21321@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins21321@discrete.\cap np.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins21321@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE BI-DIR TRIG_CAPCK05_12V':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS14978@DISCRETE.DIODE BI-DIR TRIG.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins14978@discrete.\diode bi-dir trig.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins14978@discrete.\diode bi-dir trig.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'BAV99_0_0603_NC/ESD':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS3160@MST9E19A_32_2.BAV99_0.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins3160@mst9e19a_32_2.\bav99_0.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins3160@mst9e19a_32_2.\bav99_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'BAV99_0_0603_NC/ESD':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS3176@MST9E19A_32_2.BAV99_0.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins3176@mst9e19a_32_2.\bav99_0.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins3176@mst9e19a_32_2.\bav99_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON10_SIP-10_CON10':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS1778@CONNECTOR.CON10.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins1778@connector.\con10.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins1778@connector.\con10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'CON4_PWCON_4_CON4':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS9263@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins9263@connector.\con4.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins9263@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 'CON4_PWCON_4_CON4':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10086@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10086@connector.\con4.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10086@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'CON4_PWCON_4_CON4':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10525@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10525@connector.\con4.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10525@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 'CON4_PWCON_4_CON4':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10766@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10766@connector.\con4.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10766@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 'CON4_PWCON_4_CON4':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10645@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10645@connector.\con4.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10645@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER 3_1_POWER_PWR/12V@1.0A':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS14948@OPTVIDEOT4V.HEADER 3_1.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins14948@optvideot4v.\header 3_1.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins14948@optvideot4v.\header 3_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER 6_POWERKEY_PWRKEY':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS14872@CONNECTOR.HEADER 6.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins14872@connector.\header 6.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins14872@connector.\header 6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'HEADER 4_KEY4_KEY':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS16367@CONNECTOR.HEADER 4.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins16367@connector.\header 4.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins16367@connector.\header 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'HEADER 4_KEY4_KEY':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS15295@CONNECTOR.HEADER 4.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins15295@connector.\header 4.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins15295@connector.\header 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'HEADER 4_KEY4_KEY':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS15710@CONNECTOR.HEADER 4.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins15710@connector.\header 4.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins15710@connector.\header 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'HEADER 4_KEY4_KEY':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS16445@CONNECTOR.HEADER 4.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins16445@connector.\header 4.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins16445@connector.\header 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'CON6_USB_B_CON6':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS2336@CONNECTOR.CON6.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins2336@connector.\con6.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins2336@connector.\con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'CON4_PWCON_4_CON4':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS7030@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins7030@connector.\con4.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins7030@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LR1 'HOLE_PCIR_HOLE':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS20453@B_ECHO.HOLE.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins20453@b_echo.\hole.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins20453@b_echo.\hole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 '1R1001_0_SOT-23_S9014LTI':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS6936@CIRCLE_LED.1R1001_0.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins6936@circle_led.\1r1001_0.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins6936@circle_led.\1r1001_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q10 '1R1001_0_SOT-23_S9014LTI':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10023@CIRCLE_LED.1R1001_0.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10023@circle_led.\1r1001_0.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10023@circle_led.\1r1001_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q11 '1R1001_0_SOT-23_S9014LTI':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10462@CIRCLE_LED.1R1001_0.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10462@circle_led.\1r1001_0.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10462@circle_led.\1r1001_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q12 '1R1001_0_SOT-23_S9014LTI':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10318@CIRCLE_LED.1R1001_0.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10318@circle_led.\1r1001_0.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10318@circle_led.\1r1001_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 '1R1001_0_SOT-23_S9014LTI':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS9245@CIRCLE_LED.1R1001_0.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins9245@circle_led.\1r1001_0.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins9245@circle_led.\1r1001_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 '1R1001_0_SOT-23_S9014LTI':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS7416@CIRCLE_LED.1R1001_0.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins7416@circle_led.\1r1001_0.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins7416@circle_led.\1r1001_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 '1R1001_0_SOT-23_S9014LTI':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS9383@CIRCLE_LED.1R1001_0.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins9383@circle_led.\1r1001_0.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins9383@circle_led.\1r1001_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 '1R1001_0_SOT-23_S9014LTI':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS9518@CIRCLE_LED.1R1001_0.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins9518@circle_led.\1r1001_0.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins9518@circle_led.\1r1001_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q6 '1R1001_0_SOT-23_S9014LTI':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS9737@CIRCLE_LED.1R1001_0.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins9737@circle_led.\1r1001_0.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins9737@circle_led.\1r1001_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7 '1R1001_0_SOT-23_S9014LTI':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS9949@CIRCLE_LED.1R1001_0.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins9949@circle_led.\1r1001_0.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins9949@circle_led.\1r1001_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q8 '1R1001_0_SOT-23_S9014LTI':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS9586@CIRCLE_LED.1R1001_0.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins9586@circle_led.\1r1001_0.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins9586@circle_led.\1r1001_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q9 '1R1001_0_SOT-23_S9014LTI':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10390@CIRCLE_LED.1R1001_0.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10390@circle_led.\1r1001_0.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10390@circle_led.\1r1001_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS1606@DISCRETE#0.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins1606@\discrete#0\.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins1606@\discrete#0\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_0603_1K':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS15638@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins15638@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins15638@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_0603_1K':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS16425@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins16425@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins16425@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_0603_0':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS1868@DISCRETE#0.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins1868@\discrete#0\.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins1868@\discrete#0\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS16473@DISCRETE#0.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins16473@\discrete#0\.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins16473@\discrete#0\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS15738@DISCRETE#0.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins15738@\discrete#0\.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins15738@\discrete#0\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_0603_1K':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS15770@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins15770@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins15770@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_0603_1K':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS16503@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins16503@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins16503@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_0603_1.5K':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS3998@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins3998@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins3998@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_0603_1.5K':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS3927@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins3927@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins3927@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS2218@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins2218@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins2218@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS1672@DISCRETE#0.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins1672@\discrete#0\.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins1672@\discrete#0\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_0603_5.1':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS2934@DISCRETE#0.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins2934@\discrete#0\.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins2934@\discrete#0\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_0603_10':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS2292@DISCRETE#0.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins2292@\discrete#0\.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins2292@\discrete#0\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_0603_5.1':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS2950@DISCRETE#0.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins2950@\discrete#0\.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins2950@\discrete#0\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_0603_10':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS2202@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins2202@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins2202@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS7126@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins7126@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins7126@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS7378@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins7378@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins7378@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS9283@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins9283@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins9283@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS7184@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins7184@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins7184@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS9361@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins9361@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins9361@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS9305@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins9305@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins9305@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS1704@DISCRETE#0.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins1704@\discrete#0\.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins1704@\discrete#0\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS7448@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins7448@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins7448@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS9415@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins9415@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins9415@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS9550@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins9550@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins9550@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10106@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10106@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10106@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS9759@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins9759@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins9759@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10545@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10545@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10545@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10128@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10128@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10128@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10567@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10567@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10567@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS9971@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins9971@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins9971@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS9618@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins9618@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins9618@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS1640@DISCRETE#0.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins1640@\discrete#0\.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins1640@\discrete#0\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10408@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10408@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10408@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10041@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10041@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10041@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10786@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10786@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10786@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10808@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10808@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10808@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10665@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10665@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10665@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10687@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10687@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10687@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10484@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10484@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10484@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS10336@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins10336@discrete.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins10336@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_0603_10K':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS1746@DISCRETE#0.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins1746@\discrete#0\.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins1746@\discrete#0\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_0603_0':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS1852@DISCRETE#0.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins1852@\discrete#0\.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins1852@\discrete#0\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_0603_NC':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS2136@DISCRETE#0.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins2136@\discrete#0\.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins2136@\discrete#0\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS16395@DISCRETE#0.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins16395@\discrete#0\.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins16395@\discrete#0\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_0603_100':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS15530@DISCRETE#0.R.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins15530@\discrete#0\.\r.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins15530@\discrete#0\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'VIA_VIA_2_5MM_VIA':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS20509@LIBRARY1.VIA.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins20509@library1.\via.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins20509@library1.\via.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'VIA_VIA_2_5MM_VIA':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS20481@LIBRARY1.VIA.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins20481@library1.\via.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins20481@library1.\via.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'VIA_VIA_2_5MM_VIA':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS20495@LIBRARY1.VIA.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins20495@library1.\via.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins20495@library1.\via.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP4 'VIA_VIA_2_5MM_VIA':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS20467@LIBRARY1.VIA.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins20467@library1.\via.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page2_ins20467@library1.\via.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'STM32F107_1_LQFP64Z_STM32F103RF':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS1978@VGA_OPT_TX.STM32F107_1.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins1978@vga_opt_tx.\stm32f107_1.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins1978@vga_opt_tx.\stm32f107_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'LM117HV/TO3_3_SOT223_AMS1117-3.':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS15014@OPTVIDEOR8V.LM117HV/TO3_3.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins15014@optvideor8v.\lm117hv/to3_3.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins15014@optvideor8v.\lm117hv/to3_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'MAX809_EUR-T_SOT-23_MAX809_EUR-':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS2168@LED_CARD.MAX809_EUR-T.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins2168@led_card.\max809_eur-t.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins2168@led_card.\max809_eur-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'OSC_OSC_SMD_11.0592MHZ':;
+
+SECTION_NUMBER 1
+ '@CIRCLE_LED.SCHEMATIC1(SCH_1):INS2256@STDLIB.OSC.NORMAL(CHIPS)':
+ C_PATH='@circle_led.schematic1(sch_1):ins2256@stdlib.\osc.normal\(chips)',
+ P_PATH='@circle_led.schematic1(sch_1):page1_ins2256@stdlib.\osc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
